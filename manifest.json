@@ -1,0 +1,6 @@
+{
+    "id": "caboose-plugin-filebrowser",
+    "repository": "https://github.com/CabooseMedia/caboose-plugin-filebrowser.git",
+    "name": "File Browser",
+    "description": "A simple file browser for CabooseMedia."
+}
