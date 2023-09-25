@@ -1,0 +1,1 @@
+# caboose-plugin-template
